@@ -4,8 +4,8 @@
 
 // Output :  
 //	A A A A A 
-//  B B B B B 
-//  C C C C C
+//      B B B B B 
+//      C C C C C
 	 
 
 #include<stdio.h>
