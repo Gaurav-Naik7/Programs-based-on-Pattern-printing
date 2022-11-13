@@ -4,7 +4,7 @@
 
 // Output : * # * #
 //          * # * #
-//  		* # * #
+//  	    * # * #
 
 
 #include<stdio.h>
